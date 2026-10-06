@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0d0d0d" />
+  <text x="1015" y="140" fill="#fafafa" font-family="Vazirmatn, sans-serif" font-size="27" font-weight="600" text-anchor="end">شرکت رای بان داده</text>
+  <image href="/company-logo.png" x="1040" y="91" width="72" height="72" preserveAspectRatio="xMidYMid meet" />
+  <path d="M96 212h1008" stroke="#fafafa" stroke-opacity=".12" />
+  <text x="1100" y="345" fill="#fafafa" font-family="Vazirmatn, sans-serif" font-size="66" font-weight="500" text-anchor="end">طراحی روشن. اجرای دقیق.</text>
+  <text x="1100" y="415" fill="#999999" font-family="Vazirmatn, sans-serif" font-size="24" text-anchor="end">راهکارهای دیجیتال، طراحی و توسعه‌ی وب</text>
+  <path d="M96 520h1008" stroke="#fafafa" stroke-opacity=".12" />
+  <text x="1100" y="568" fill="#777777" font-family="Poppins, sans-serif" font-size="18" text-anchor="end">DIGITAL DESIGN / WEB DEVELOPMENT</text>
+</svg>
